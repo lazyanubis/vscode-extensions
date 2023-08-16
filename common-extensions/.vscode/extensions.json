@@ -13,7 +13,6 @@
         "zainchen.json",
         // 中文
         "ms-ceintl.vscode-language-pack-zh-hans",
-        "ms-dotnettools.vscode-dotnet-runtime",
         // 格式化
         "esbenp.prettier-vscode",
         "shardulm94.trailing-spaces",
@@ -29,10 +28,11 @@
         // "vscode-icons-team.vscode-icons",
         // 提示
         "christian-kohler.path-intellisense",
-        "visualstudioexptteam.intellicode-api-usage-examples",
-        "visualstudioexptteam.vscodeintellicode",
-        "visualstudioexptteam.vscodeintellicode-completions",
-        "visualstudioexptteam.vscodeintellicode-insiders",
+        // "visualstudioexptteam.vscodeintellicode",
+        // "ms-dotnettools.vscode-dotnet-runtime",
+        // "visualstudioexptteam.vscodeintellicode-completions",
+        // "visualstudioexptteam.vscodeintellicode-insiders",
+        // "visualstudioexptteam.intellicode-api-usage-examples",
         // AI 提示
         "amazonwebservices.aws-toolkit-vscode",
         // "github.copilot",
