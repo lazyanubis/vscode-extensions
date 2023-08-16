@@ -12,6 +12,8 @@
         "hediet.vscode-drawio",
         "redhat.vscode-yaml",
         "zainchen.json",
+        // 使用 IDEA 的快捷键
+        "k--kato.intellij-idea-keybindings",
         // 中文
         "ms-ceintl.vscode-language-pack-zh-hans",
         // 格式化
@@ -30,8 +32,8 @@
         // 提示
         "christian-kohler.path-intellisense",
         "visualstudioexptteam.vscodeintellicode",
-        "visualstudioexptteam.vscodeintellicode-completions",
         "visualstudioexptteam.intellicode-api-usage-examples",
+        "visualstudioexptteam.vscodeintellicode-completions",
         // "visualstudioexptteam.vscodeintellicode-insiders",
         // "ms-dotnettools.vscode-dotnet-runtime",
         // AI 提示
@@ -47,6 +49,7 @@
         "eamodio.gitlens",
         // 统计工作时长
         "wakatime.vscode-wakatime",
+
         // >>>>>>>> Frontend <<<<<<<<
         // 图标
         "antfu.iconify",
@@ -78,6 +81,7 @@
         "bradlc.vscode-tailwindcss",
         "stivo.tailwind-fold",
         // "heybourn.headwind",
+
         // >>>>>>>> React <<<<<<<<
         "burkeholland.simple-react-snippets",
         "dsznajder.es7-react-js-snippets",

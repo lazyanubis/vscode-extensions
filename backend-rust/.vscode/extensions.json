@@ -49,5 +49,10 @@
         "eamodio.gitlens",
         // 统计工作时长
         "wakatime.vscode-wakatime",
+
+        // >>>>>>>> Rust <<<<<<<<
+        "rust-lang.rust-analyzer",
+        "serayuzgur.crates",
+        "tamasfe.even-better-toml",
     ]
 }
