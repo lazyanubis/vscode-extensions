@@ -29,11 +29,11 @@
         // "vscode-icons-team.vscode-icons",
         // 提示
         "christian-kohler.path-intellisense",
-        // "visualstudioexptteam.vscodeintellicode",
-        // "ms-dotnettools.vscode-dotnet-runtime",
-        // "visualstudioexptteam.vscodeintellicode-completions",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.vscodeintellicode-completions",
+        "visualstudioexptteam.intellicode-api-usage-examples",
         // "visualstudioexptteam.vscodeintellicode-insiders",
-        // "visualstudioexptteam.intellicode-api-usage-examples",
+        // "ms-dotnettools.vscode-dotnet-runtime",
         // AI 提示
         "amazonwebservices.aws-toolkit-vscode",
         // "github.copilot",
