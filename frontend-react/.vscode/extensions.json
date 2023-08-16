@@ -1,0 +1,38 @@
+{
+    "recommendations": [
+        // 图标
+        "antfu.iconify",
+        "jock.svg",
+        // npm
+        "christian-kohler.npm-intellisense",
+        "wix.vscode-import-cost",
+        // 日志
+        // html
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "vincaslt.highlight-matching-tag",
+        // 多语言
+        "lokalise.i18n-ally",
+        // 样式
+        "mrmlnc.vscode-less",
+        // 格式化
+        "dbaeumer.vscode-eslint",
+        "rvest.vs-code-prettier-eslint",
+        "styled-components.vscode-styled-components",
+        "stylelint.vscode-stylelint",
+        // 日志和错误
+        "chakrounanas.turbo-console-log",
+        "usernamehw.errorlens",
+        "wallabyjs.console-ninja",
+        "yoavbls.pretty-ts-errors",
+        // tailwindcss
+        "austenc.tailwind-docs",
+        "bradlc.vscode-tailwindcss",
+        "stivo.tailwind-fold",
+        // "heybourn.headwind",
+        // >>>>>>>> React <<<<<<<<
+        "burkeholland.simple-react-snippets",
+        "dsznajder.es7-react-js-snippets",
+    ]
+}
