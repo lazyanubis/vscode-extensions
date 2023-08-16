@@ -1,0 +1,50 @@
+{
+    "recommendations": [
+        // 通用
+        "editorconfig.editorconfig",
+        "alefragnani.project-manager",
+        "johnpapa.vscode-peacock",
+        "funkyremi.vscode-google-translate",
+        "gruntfuggly.todo-tree",
+        "mkxml.vscode-filesize",
+        "uctakeoff.vscode-counter",
+        "hediet.vscode-drawio",
+        "redhat.vscode-yaml",
+        "zainchen.json",
+        // 中文
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        // 格式化
+        "esbenp.prettier-vscode",
+        "shardulm94.trailing-spaces",
+        "streetsidesoftware.code-spell-checker",
+        "ms-vscode.hexeditor",
+        "foxundermoon.shell-format",
+        // 界面色彩
+        "pkief.material-icon-theme",
+        "aaron-bond.better-comments",
+        "ibm.output-colorizer",
+        "mechatroner.rainbow-csv",
+        "oderwat.indent-rainbow",
+        // "vscode-icons-team.vscode-icons",
+        // 提示
+        "christian-kohler.path-intellisense",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.vscodeintellicode-completions",
+        "visualstudioexptteam.vscodeintellicode-insiders",
+        // AI 提示
+        "amazonwebservices.aws-toolkit-vscode",
+        // "github.copilot",
+        // "bito.bito",
+        // "tabnine.tabnine-vscode",
+        // markdown
+        "davidanson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        // git
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        // 统计工作时长
+        "wakatime.vscode-wakatime",
+    ]
+}
