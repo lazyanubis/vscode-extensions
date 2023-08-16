@@ -54,7 +54,6 @@
         // npm
         "christian-kohler.npm-intellisense",
         "wix.vscode-import-cost",
-        // 日志
         // html
         "ecmel.vscode-html-css",
         "formulahendry.auto-close-tag",
