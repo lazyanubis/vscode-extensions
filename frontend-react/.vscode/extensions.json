@@ -1,5 +1,6 @@
 {
     "recommendations": [
+        // >>>>>>>> Common <<<<<<<<
         // 通用
         "editorconfig.editorconfig",
         "alefragnani.project-manager",
@@ -46,6 +47,7 @@
         "eamodio.gitlens",
         // 统计工作时长
         "wakatime.vscode-wakatime",
+        // >>>>>>>> Frontend <<<<<<<<
         // 图标
         "antfu.iconify",
         "jock.svg",

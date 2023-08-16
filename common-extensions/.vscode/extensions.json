@@ -1,5 +1,6 @@
 {
     "recommendations": [
+        // >>>>>>>> Common <<<<<<<<
         // 通用
         "editorconfig.editorconfig",
         "alefragnani.project-manager",
