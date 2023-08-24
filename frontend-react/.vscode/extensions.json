@@ -22,6 +22,7 @@
         "streetsidesoftware.code-spell-checker",
         "ms-vscode.hexeditor",
         "foxundermoon.shell-format",
+        "tamasfe.even-better-toml",
         // 界面色彩
         "pkief.material-icon-theme",
         "aaron-bond.better-comments",
