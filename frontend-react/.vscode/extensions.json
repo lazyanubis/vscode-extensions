@@ -12,6 +12,7 @@
         "hediet.vscode-drawio",
         "redhat.vscode-yaml",
         "zainchen.json",
+        "kisstkondoros.vscode-gutter-preview",
         // 使用 IDEA 的快捷键
         "k--kato.intellij-idea-keybindings",
         // 中文
@@ -30,7 +31,7 @@
         "mechatroner.rainbow-csv",
         "oderwat.indent-rainbow",
         // "vscode-icons-team.vscode-icons",
-        // 提示
+        // 代码提示
         "christian-kohler.path-intellisense",
         "visualstudioexptteam.vscodeintellicode",
         "visualstudioexptteam.intellicode-api-usage-examples",
@@ -51,7 +52,7 @@
         // 统计工作时长
         "wakatime.vscode-wakatime",
 
-        // >>>>>>>> Frontend <<<<<<<<
+        // >>>>>>>> Node Frontend <<<<<<<<
         // 图标
         "antfu.iconify",
         "jock.svg",
