@@ -13,6 +13,7 @@
         "redhat.vscode-yaml",
         "zainchen.json",
         "kisstkondoros.vscode-gutter-preview",
+        "formulahendry.code-runner",
         // 使用 IDEA 的快捷键
         "k--kato.intellij-idea-keybindings",
         // 中文
