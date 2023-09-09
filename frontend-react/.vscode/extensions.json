@@ -85,6 +85,9 @@
         "stivo.tailwind-fold",
         // "heybourn.headwind",
 
+        // >>>>>>>> Webassembly <<<<<<<<
+        "dtsvet.vscode-wasm",
+
         // >>>>>>>> React <<<<<<<<
         "burkeholland.simple-react-snippets",
         "dsznajder.es7-react-js-snippets",

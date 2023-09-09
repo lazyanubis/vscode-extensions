@@ -54,6 +54,9 @@
         // 统计工作时长
         "wakatime.vscode-wakatime",
 
+        // >>>>>>>> Webassembly <<<<<<<<
+        "dtsvet.vscode-wasm",
+
         // >>>>>>>> Rust <<<<<<<<
         "rust-lang.rust-analyzer",
         "serayuzgur.crates",
