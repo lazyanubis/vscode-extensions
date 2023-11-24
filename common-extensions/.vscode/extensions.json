@@ -49,6 +49,7 @@
         "davidanson.vscode-markdownlint",
         "yzhang.markdown-all-in-one",
         // git
+        "github.vscode-github-actions",
         "codezombiech.gitignore",
         "eamodio.gitlens",
         // 统计工作时长

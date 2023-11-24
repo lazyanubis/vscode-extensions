@@ -49,6 +49,7 @@
         "davidanson.vscode-markdownlint",
         "yzhang.markdown-all-in-one",
         // git
+        "github.vscode-github-actions",
         "codezombiech.gitignore",
         "eamodio.gitlens",
         // 统计工作时长
@@ -60,5 +61,9 @@
         // >>>>>>>> Rust <<<<<<<<
         "rust-lang.rust-analyzer",
         "serayuzgur.crates",
+        "dustypomerleau.rust-syntax",
+        "swellaby.vscode-rust-test-adapter",
+        "kevinkassimo.cargo-toml-snippets",
+        "vadimcn.vscode-lldb", // 原生运行 debug
     ]
 }
