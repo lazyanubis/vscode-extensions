@@ -54,5 +54,7 @@
         "eamodio.gitlens",
         // 统计工作时长
         "wakatime.vscode-wakatime",
+        // 错误显示
+        "usernamehw.errorlens",
     ]
 }
