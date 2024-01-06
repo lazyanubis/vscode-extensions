@@ -20,6 +20,8 @@
         "k--kato.intellij-idea-keybindings",
         // 中文
         "ms-ceintl.vscode-language-pack-zh-hans",
+        "beishanyufu.ime-and-cursor",
+        "orangex4.vscode-smart-ime",
         // 格式化
         "esbenp.prettier-vscode",
         "shardulm94.trailing-spaces",
@@ -59,20 +61,13 @@
         "usernamehw.errorlens",
 
         // >>>>>>>> Node Frontend <<<<<<<<
+        // 环境变量
+        "dotenv.dotenv-vscode",
         // 图标
         "antfu.iconify",
         // npm
         "christian-kohler.npm-intellisense",
         "wix.vscode-import-cost",
-        // html
-        "ecmel.vscode-html-css",
-        "formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag",
-        "vincaslt.highlight-matching-tag",
-        // 多语言
-        "lokalise.i18n-ally",
-        // 样式
-        "mrmlnc.vscode-less",
         // 格式化
         "dbaeumer.vscode-eslint",
         "rvest.vs-code-prettier-eslint",
@@ -82,6 +77,16 @@
         "chakrounanas.turbo-console-log",
         "wallabyjs.console-ninja",
         "yoavbls.pretty-ts-errors",
+
+        // html
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "vincaslt.highlight-matching-tag",
+        // 多语言
+        "lokalise.i18n-ally",
+        // 样式
+        "mrmlnc.vscode-less",
         // tailwindcss
         "austenc.tailwind-docs",
         "bradlc.vscode-tailwindcss",
