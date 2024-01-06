@@ -51,6 +51,7 @@
         // markdown
         "davidanson.vscode-markdownlint",
         "yzhang.markdown-all-in-one",
+        "hnw.vscode-auto-open-markdown-preview",
         // git
         "github.vscode-github-actions",
         "codezombiech.gitignore",

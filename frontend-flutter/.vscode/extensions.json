@@ -51,6 +51,7 @@
         // markdown
         "davidanson.vscode-markdownlint",
         "yzhang.markdown-all-in-one",
+        "hnw.vscode-auto-open-markdown-preview",
         // git
         "github.vscode-github-actions",
         "codezombiech.gitignore",
@@ -59,7 +60,6 @@
         "wakatime.vscode-wakatime",
         // 错误显示
         "usernamehw.errorlens",
-
         // >>>>>>>> Flutter <<<<<<<<
         "dart-code.dart-code",
         "dart-code.flutter",
