@@ -20,6 +20,7 @@
         "k--kato.intellij-idea-keybindings",
         // 中文
         "ms-ceintl.vscode-language-pack-zh-hans",
+        "draivin.hscopes",
         "beishanyufu.ime-and-cursor",
         "orangex4.vscode-smart-ime",
         // 格式化
@@ -66,6 +67,10 @@
         "nash.awesome-flutter-snippets",
         "jeroen-meijer.pubspec-assist",
         "hzgood.dart-data-class-generator",
-        "circlecodesolution.ccs-flutter-color"
+        "circlecodesolution.ccs-flutter-color",
+        // android
+        "vscjava.vscode-gradle",
+        // windows
+        "ms-vscode.cmake-tools"
     ]
 }

@@ -20,6 +20,7 @@
         "k--kato.intellij-idea-keybindings",
         // 中文
         "ms-ceintl.vscode-language-pack-zh-hans",
+        "draivin.hscopes",
         "beishanyufu.ime-and-cursor",
         "orangex4.vscode-smart-ime",
         // 格式化
@@ -88,6 +89,7 @@
         "lokalise.i18n-ally",
         // 样式
         "mrmlnc.vscode-less",
+        "pranaygp.vscode-css-peek",
         // tailwindcss
         "austenc.tailwind-docs",
         "bradlc.vscode-tailwindcss",
