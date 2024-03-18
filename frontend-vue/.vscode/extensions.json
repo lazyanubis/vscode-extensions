@@ -22,7 +22,6 @@
         "ms-ceintl.vscode-language-pack-zh-hans",
         "draivin.hscopes",
         "beishanyufu.ime-and-cursor",
-        "orangex4.vscode-smart-ime",
         // 格式化
         "esbenp.prettier-vscode",
         "shardulm94.trailing-spaces",
@@ -101,6 +100,5 @@
 
         // >>>>>>>> Vue <<<<<<<<
         "vue.volar",
-        "vue.vscode-typescript-vue-plugin",
     ]
 }
