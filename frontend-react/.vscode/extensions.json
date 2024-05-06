@@ -44,7 +44,8 @@
         // "visualstudioexptteam.vscodeintellicode-insiders",
         // "ms-dotnettools.vscode-dotnet-runtime",
         // AI 提示
-        "amazonwebservices.aws-toolkit-vscode",
+        // "amazonwebservices.aws-toolkit-vscode",
+        "amazonwebservices.amazon-q-vscode",
         // "github.copilot",
         // "bito.bito",
         // "tabnine.tabnine-vscode",
