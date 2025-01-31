@@ -35,6 +35,7 @@
         "ibm.output-colorizer",
         "mechatroner.rainbow-csv",
         "oderwat.indent-rainbow",
+        "liviuschera.noctis",
         // "vscode-icons-team.vscode-icons",
         // 代码提示
         "christian-kohler.path-intellisense",
@@ -43,6 +44,7 @@
         "visualstudioexptteam.vscodeintellicode-completions",
         // "visualstudioexptteam.vscodeintellicode-insiders",
         // "ms-dotnettools.vscode-dotnet-runtime",
+        "mintlify.document",
         // AI 提示
         // "amazonwebservices.aws-toolkit-vscode",
         "amazonwebservices.amazon-q-vscode",
