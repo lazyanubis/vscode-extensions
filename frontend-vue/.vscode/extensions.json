@@ -41,11 +41,6 @@
         // "vscode-icons-team.vscode-icons",
         // 代码提示
         "christian-kohler.path-intellisense",
-        "visualstudioexptteam.vscodeintellicode",
-        "visualstudioexptteam.intellicode-api-usage-examples",
-        "visualstudioexptteam.vscodeintellicode-completions",
-        // "visualstudioexptteam.vscodeintellicode-insiders",
-        // "ms-dotnettools.vscode-dotnet-runtime",
         "mintlify.document",
         // AI 提示
         // "amazonwebservices.aws-toolkit-vscode",
